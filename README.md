@@ -5,7 +5,7 @@
 ## Links
 
 - [Repo](https://github.com/marinsabo/My-First-Website "My-First-Website Repo")
-- [Live](https://marinsabo.github.io/My-First-Website "Live View")
+- [Live](https://marinsabo.github.io/My-First-Website/index.html "Live View")
 
 ## Screenshots
 
